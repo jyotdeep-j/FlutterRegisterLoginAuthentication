@@ -1,0 +1,7 @@
+-> This is sample code demo of Auth Module for Flutter Projects
+-> Here we have followed MVVM and reposoitory Pattern
+-> In Sample Code you will find model view as a controllers classes of signIn and signUp screens/pages
+-> You will also find  login and register screens/pages in sample code 
+-> Api Responses classes
+-> Local Model Classes
+-> etc..
